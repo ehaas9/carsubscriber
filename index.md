@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This website is a work in progress
 
 You can use the [editor on GitHub](https://github.com/ehaas9/evanhaas.me/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
