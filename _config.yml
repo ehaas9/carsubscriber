@@ -1,3 +1,2 @@
-theme: jekyll-theme-cayman
-title: Evan Haas
-description: I'm trying to get rid of the button below
+name: Evan Haas
+markdown: kramdown
